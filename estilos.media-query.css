@@ -8,6 +8,7 @@
 
     section#login {
         width: 90vw;
+        height: 340px;
     }
     
     section#login > div#imagem {
@@ -27,7 +28,7 @@
     }
 }
 
-@media screen and (min-width: 992px) and (max-width: 1200px){
+@media screen and (min-width: 992px){
 
     body {
         background-image: linear-gradient(to top, rgb(3, 66, 43), rgb(28, 170, 116));
@@ -35,6 +36,7 @@
 
     section#login {
         width: 950px;
+        height: 420px;
     }
 
     section#login > div#imagem {
